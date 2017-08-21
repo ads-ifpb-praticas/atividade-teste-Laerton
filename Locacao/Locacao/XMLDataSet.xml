@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <Filme id ='1' nome ="A mumia" duracao = '120' genero ='1' />
+    <Filme id ='2' nome ="Todo mundo em panico" duracao = '120' genero ='2' />
+    <Filme id ='1' nome ="Os caca-fantasmas" duracao = '120' genero ='3' />
+</dataset>

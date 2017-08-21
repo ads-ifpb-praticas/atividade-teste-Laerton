@@ -1,0 +1,7 @@
+servico/FilmeServico.class
+entidade/Genero.class
+Exception/FilmeException.class
+servico/DAOFilme.class
+entidade/Filme.class
+br/edu/ifpb/locacao/validacao/ValidaLocaco.class
+br/edu/ifpb/locacao/validacao/ValidaFilme.class
