@@ -17,5 +17,13 @@ public enum Genero{
     private Genero(int value) {
         this.value = value;
     }
+    public int getValue(){
+        return this.value;
+    }
+    
+    public Genero valueOf(int i){
+        this.value = 1;
+        return  this;
+    }
     
 }

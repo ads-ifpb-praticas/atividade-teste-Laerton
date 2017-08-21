@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<dataset>
+	<filme id="1" nome="A mumia" duracao ="120" genero ="1" />
+        <filme id="2" nome="Todo mundo em panico" duracao ="120" genero ="2" />
+        <filme id="3" nome="Zootopia" duracao ="120" genero ="3-" />
+</dataset>
